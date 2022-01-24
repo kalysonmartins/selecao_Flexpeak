@@ -1,6 +1,6 @@
 # ifpk
 Projeto realizado para realização da seleção Flexpeak.
-Fi utilizado nesse projeto, Vue.js , bootstrap-vue,  Axios, vue-api-query e json-server
+Ferramentas utilizadas nesse projeto: Vue.js, bootstrap-vue, Axios, vue-api-query e json-server
 ## Project setup
 ```
 npm install
