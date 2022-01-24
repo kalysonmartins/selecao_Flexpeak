@@ -1,0 +1,139 @@
+{
+  "tasks": [
+    {
+      "subject": "arquivar",
+      "description": "arquivou? ",
+      "status": 3,
+      "id": 4
+    },
+    {
+      "subject": "dfgdfg",
+      "description": "fdgdfgfg",
+      "status": 3,
+      "id": 5
+    },
+    {
+      "subject": "123",
+      "description": "123",
+      "status": 3,
+      "id": 7
+    },
+    {
+      "subject": "Bug financeiro",
+      "description": "O usuário não consegue realizar o pagamento do item valioso",
+      "status": 1,
+      "dateOverdue": "2022-01-01",
+      "id": 8
+    },
+    {
+      "subject": "Visual",
+      "description": "Usuário não escuta o tiro da arma",
+      "status": 3,
+      "dateOverdue": "2022-01-23",
+      "id": 9
+    },
+    {
+      "subject": "lllll",
+      "description": "llllllll",
+      "status": 3,
+      "dateOverdue": "2022-01-23",
+      "id": 11
+    },
+    {
+      "subject": "Físico",
+      "description": "O personagem atravessa a Parade",
+      "status": 2,
+      "dateOverdue": "2022-01-24",
+      "id": 12
+    },
+    {
+      "subject": "Financeiro",
+      "description": "O usuário não consegue realizar o pagamento da roupa dragão",
+      "status": 1,
+      "dateOverdue": "2022-01-25",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "name": "",
+      "email": "kalysonmartins@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "nome": "kalyson",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "kalysonmartins@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "nome": "kalyson",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "martins@gmail.com",
+      "password": "222222",
+      "confirmPassword": "222222",
+      "nome": "martins",
+      "id": 3
+    },
+    {
+      "nome": "JÃO",
+      "email": "jao@jao.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 4
+    },
+    {
+      "nome": "maria",
+      "email": "maria@maria.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 5
+    },
+    {
+      "nome": "francisco",
+      "email": "email@email.com",
+      "password": "222222",
+      "confirmPassword": "222222",
+      "id": 6
+    },
+    {
+      "nome": "Joana",
+      "email": "joana@joana.com",
+      "password": "999999",
+      "confirmPassword": "999999",
+      "id": 7
+    },
+    {
+      "nome": "kkkkkkk",
+      "email": "kkkkk@kkk.com",
+      "password": "kkkkkk",
+      "confirmPassword": "kkkkkk",
+      "id": 8
+    },
+    {
+      "nome": "emilyn",
+      "email": "emilyn@gmail.com",
+      "password": "555555",
+      "confirmPassword": "555555",
+      "id": 9
+    },
+    {
+      "nome": "kalyson martins",
+      "email": "kalyson@martins.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 10
+    },
+    {
+      "nome": "admin",
+      "email": "admin@admin.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 11
+    }
+  ]
+}
